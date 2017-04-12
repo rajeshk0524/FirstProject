@@ -2,5 +2,4 @@
 
 # FirstProject
 
-Test
-ihello
+This is First Git setup
